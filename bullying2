@@ -1,0 +1,7 @@
+date_submitted,student_name,complaint_text,severity,category,law_name,law_description,law_confidence,recommended_action,ai_response
+2026-04-11,jhasper,bullying,HIGH,Bullying,Anti-Bullying Act of 2013 (RA 10627),An act requiring all elementary and secondary schools to adopt policies to prevent and address bullying in their institutions.,HIGH,"The school counselor should immediately investigate the bullying incident, interview the involved parties, and implement appropriate interventions as per the school's anti-bullying policy and RA 10627. This may include counseling for the victim and the perpetrator, and disciplinary actions if necessary.","Dear Jhasper,
+
+We have received your complaint regarding bullying. We take this matter very seriously and want to assure you that we are committed to providing a safe and supportive environment for all students. Your concern has been logged, and we will be initiating an investigation to address this issue promptly. A school counselor will be in touch with you soon to discuss this further and provide support.
+
+Sincerely,
+[School Name] Administration"
