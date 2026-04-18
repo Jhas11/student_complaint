@@ -1,7 +1,3 @@
-"""
-config.py — App-wide constants and settings.
-"""
-
 MODEL = "openrouter/auto"
 BASE_URL = "https://openrouter.ai/api/v1"
 DEFAULT_CSV = "complaints_log.csv"
